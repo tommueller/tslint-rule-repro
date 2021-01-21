@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'repro';
+  noany: any;
+  waytoolongline_waytoolongline_waytoolongline_waytoolongline_waytoolongline_waytoolongline_waytoolongline_waytoolongline_waytoolongline_waytoolongline_waytoolongline_waytoolongline_waytoolongline;
 }
